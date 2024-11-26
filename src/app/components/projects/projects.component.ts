@@ -38,21 +38,16 @@ export class ProjectsComponent {
 
   thirdProject: Tools[] = [
     {
-      name: 'HTML',
-    },
-    {
-      name: 'SCSS',
-    },
-    {
-      name: 'TypeScript',
-    },
-    {
       name: 'Angular',
     },
     {
-      name: 'Aungular Material',
+      name: 'Node.js',
     },
-  ];
+    {
+      name: 'MySQL',
+    }
+    
+];
 
   projectOne = () => {
     window.open(environment.projectOne, '_blank');
