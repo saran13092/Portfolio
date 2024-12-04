@@ -44,7 +44,7 @@ export class ProjectsComponent {
       name: 'Node.js',
     },
     {
-      name: 'MySQL',
+      name: 'MySQL ',
     }
     
 ];
